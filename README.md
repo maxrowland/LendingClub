@@ -7,6 +7,7 @@ This project will be making use of the following data sets:
 
 LendingClub loan stats (2007 - Q1 2020)
 LendingClub payment history (2007 - 2020)
+
 This repo holds all scripts, both MySQL and Python used in developing models to try and predict loan defaults with the LendingClub data set.
 
 Please visit https://maxhrowland.com for more information
